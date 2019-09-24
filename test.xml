@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<work>
+	<netinfo name="service">
+		<ip>192.168.31.192</ip>
+		<port>8080</port>
+	</netinfo>
+	<body>
+		<headline>This is the headline</headline>
+		<para>This is the body text.</para>
+	</body>
+</work>
